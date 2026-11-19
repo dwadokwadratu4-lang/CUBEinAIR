@@ -1,2 +1,1 @@
-# CUBEinAIR
-Kwadrat w przestrzeni i kamer
+Latający sześcian.
